@@ -1,6 +1,4 @@
-# Stanley Chen
-
-## About
+# About Me
 
 I'm a Systems Design Engineering student at the University of Waterloo. I build and experiment across software, networking, infrastructure, automation, and embedded systems, with an emphasis on understanding how the pieces work together from first principles.
 
