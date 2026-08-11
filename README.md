@@ -14,6 +14,6 @@ My projects range from web development and automation to networking, Windows inf
 
 For a more complete overview of my projects and technical work:
 
-**-> [Visit my Portfolio Website]([YOUR_PORTFOLIO_URL](https://cir9no-0001.github.io/engineering-portfolio/))**
+**-> [Visit my Portfolio Website](https://cir9no-0001.github.io/engineering-portfolio/)**
 
 ---
