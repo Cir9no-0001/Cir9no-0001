@@ -1,16 +1,19 @@
-## Hi there 👋
+# Stanley Chen
 
-<!--
-**Cir9no-0001/Cir9no-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Design Engineering @ University of Waterloo**
 
-Here are some ideas to get you started:
+I build software, systems, and engineering projects with a focus on **full-stack development, networking, infrastructure, and automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I'm an incoming Systems Design Engineering student at the University of Waterloo interested in building and understanding systems across both software and infrastructure.
+
+My projects range from web development and automation to networking, Windows infrastructure, and embedded systems. I use GitHub to document some of my work, experiment with new technologies, and maintain the code behind my projects.
+
+For a more complete overview of my projects and technical work:
+
+**-> [Visit my Portfolio Website]([YOUR_PORTFOLIO_URL](https://cir9no-0001.github.io/engineering-portfolio/))**
+
+---
