@@ -6,4 +6,4 @@ For a more complete overview of my projects and technical work:
 
 **-> [Visit my Portfolio Website](https://cir9no-0001.github.io/engineering-portfolio/)**
 
-While you're at it, check out my 10+ repos and drop a star if you like it :>
+While you're at it, check out my 10+ repos and drop a star if you like it
